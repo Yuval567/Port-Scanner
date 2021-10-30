@@ -1,6 +1,8 @@
-# Yuval Cohen
-# 6.5.20
-# Port Scanner.py
+############################
+#    Port Scanner Tool     #
+#     By: Yuval Cohen      #
+#     Date: 4.2.21         #
+############################
 
 
 import threading
